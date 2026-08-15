@@ -7,7 +7,7 @@ Este proyecto forma parte de la actividad evaluada de **Desarrollo Frontend**, e
 ---
 
 ## 🌐 Enlace del Sitio Publicado
-🔗 **URL Pública:** [https://tu-usuario.github.io/bosque-del-cielo-glamping/](https://tu-usuario.github.io/bosque-del-cielo-glamping/)
+🔗 **URL Pública:** https://willianvelentinhenriquez-coder.github.io/bosque-del-cielo-glamping/
 
 ---
 
