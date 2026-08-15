@@ -32,8 +32,6 @@ Este proyecto forma parte de la actividad evaluada de **Desarrollo Frontend**, e
 
 ---
 
-## 👥 Integrantes del Grupo
+## 👥 Alumno
 
-- **Integrante 1:** [Nombre Completo]
-- **Integrante 2:** [Nombre Completo]
-- **Integrante 3:** [Nombre Completo]
+- **Alumno:** [Willian Valentín Henríquez Palacios]
